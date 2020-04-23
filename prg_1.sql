@@ -1,0 +1,2 @@
+iniciando linha 
+edição filtro
